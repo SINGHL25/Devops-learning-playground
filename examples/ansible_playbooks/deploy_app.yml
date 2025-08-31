@@ -1,1 +1,7 @@
 
+- hosts: localhost
+  tasks:
+    - name: Deploy sample app
+      copy:
+        src: src_app/
+        dest: /var/www/html/
