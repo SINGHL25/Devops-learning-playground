@@ -1,1 +1,7 @@
 
+streamlit
+pyyaml
+jinja2
+pytest
+matplotlib
+pandas
