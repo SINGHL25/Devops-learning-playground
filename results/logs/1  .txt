@@ -1,1 +1,6 @@
+Tool,Status,Time,Details
+Ansible,Pass,5s,Installed git
+Chef,Pass,6s,Installed nginx
+Maven,Pass,10s,Build successful
+Jenkins,Pass,3s,Pipeline executed
 
